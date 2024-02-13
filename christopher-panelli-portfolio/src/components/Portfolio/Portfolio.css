@@ -1,0 +1,13 @@
+.portfolio {
+  padding: 20px;
+}
+
+.portfolio h2 {
+  color: #333;
+}
+
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

@@ -1,0 +1,46 @@
+.form {
+  padding: 20px;
+}
+
+.form h2 {
+  color: #333;
+}
+
+.form form {
+  margin-top: 20px;
+}
+
+.form .form-group {
+  margin-bottom: 20px;
+}
+
+.form .form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form .form-group input,
+.form .form-group textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.form .form-group textarea {
+  resize: vertical;
+}
+
+.form button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.form button:hover {
+  background-color: #555;
+}
